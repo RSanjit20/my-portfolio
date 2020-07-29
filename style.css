@@ -1,0 +1,22 @@
+body {
+  background: #D6ED17FF;
+  color: #FFFFFF;
+}
+
+p, h1, h2, h4, li, ul, td, tr {
+  /* font-size: 25px; */
+  color: #606060FF;
+  font-family: "Segoe UI Light";
+}
+img {
+  width: 5cm;
+  height: 7cm;
+}
+
+table, tr, td, th {
+  border: 2px solid #606060FF;
+}
+
+.top {
+  background-color: #5CC8D7FF;
+}
